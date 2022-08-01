@@ -1,10 +1,11 @@
-### View Deployed Portfolio below
-https://madhurjyasarma.github.io/
-
 Hi, **I'm Madhurjya Goutam Sarma** :wave:
 
 From Sivasagar, Assam. 
 I am so much into Music Production, Photography, Philosophy and others...
+
+### View Deployed Portfolio here :point_down:
+https://madhurjyasarma.github.io/
+
 
 ### 🧰 Toolbox
 
